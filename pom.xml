@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.agapov</groupId>
-  <artifactId>gameHH</artifactId>
+  <artifactId>H-H_test_task</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>gameHH</name>
+  <name>H-H_test_task</name>
   <url>http://maven.apache.org</url>
 
   <properties>

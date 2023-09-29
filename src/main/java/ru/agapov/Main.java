@@ -13,7 +13,7 @@ public class Main {
 
     private static Player player = new Player();
     private static Monster monster = new Monster();
-    public static void main( String[] args ) {
+    public static void main(String[] args ) {
 
         startGame();
 

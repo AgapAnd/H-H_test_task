@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gameHH" />
+        <module name="H-H_test_task" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="H-H_test_task" target="20" />
+    </bytecodeTargetLevel>
   </component>
 </project>
